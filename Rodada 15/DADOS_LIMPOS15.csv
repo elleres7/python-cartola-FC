@@ -1,0 +1,776 @@
+,POSIÇÃO,NOME,TIME,JOGOS,PREÇO,MÉDIA,MÍNIMO
+387,GOL,Marcelo Boeck,FOR,8,3.48,2.37,0.35
+438,GOL,Luis Felype,GOI,0,1.0,0.0,1.25
+102,GOL,Jori,AME,0,3.0,0.0,4.05
+446,GOL,John Victor,SAN,1,5.92,8.0,6.49
+448,GOL,Vinicius Silvestre,PAL,0,4.0,0.0,5.46
+459,GOL,Arthur,JUV,0,1.0,0.0,1.25
+475,GOL,Jandrei,SAO,14,8.0,2.96,5.93
+90,GOL,Matheus Cavichioli,AME,1,5.33,1.0,1.31
+487,GOL,Marcelo Rangel,GOI,0,4.0,0.0,5.46
+492,GOL,César,JUV,13,5.71,2.87,10.09
+495,GOL,Keiller,INT,0,1.12,-1.0,4.81
+500,GOL,Matheus Alves,GOI,0,1.13,-1.0,5.32
+523,GOL,William,JUV,0,2.0,0.0,2.65
+77,GOL,Everson,CAM,13,10.7,3.46,0.72
+75,GOL,Jailson,AME,12,7.43,3.25,6.69
+536,GOL,Walter,CUI,12,12.22,4.61,2.7
+538,GOL,André,CEA,0,1.0,0.0,1.25
+540,GOL,Maycon,BGT,0,2.0,0.0,2.65
+564,GOL,João Carlos,CUI,1,3.36,2.0,2.77
+612,GOL,Bruno,FLA,0,1.0,0.0,1.25
+641,GOL,Young,SAO,0,1.0,0.0,1.25
+655,GOL,Anderson,CAP,0,3.0,0.0,4.05
+428,GOL,Marcelo Lomba,PAL,2,8.61,9.75,9.36
+108,GOL,Airton,AME,1,2.61,6.0,4.33
+416,GOL,Diego Alves,FLA,3,6.31,1.0,0.28
+406,GOL,Fernando Miguel,FOR,0,7.0,0.0,9.67
+198,GOL,Júlio César,BGT,0,5.0,0.0,6.86
+210,GOL,João Ricardo,CEA,12,5.28,3.55,0.51
+239,GOL,Diego Loureiro,BOT,2,2.06,0.5,2.17
+254,GOL,Vinicius Machado,CEA,1,2.81,7.0,4.87
+266,GOL,Richard,CEA,0,5.0,0.0,6.86
+269,GOL,Alex Muralha,CFC,11,6.74,3.35,1.04
+145,GOL,Renan,ACG,0,4.0,0.0,5.46
+298,GOL,Ivan,COR,0,6.0,0.0,8.26
+143,GOL,Rafael,CAM,0,5.0,0.0,6.86
+329,GOL,Matheus Cunha,FLA,0,2.0,0.0,2.65
+658,GOL,Max Walef,FOR,5,2.88,1.4,2.29
+330,GOL,Igo,BOT,0,1.0,0.0,1.25
+337,GOL,Rafael William,CFC,2,0.91,1.5,0.06
+349,GOL,Hugo Souza,FLA,9,4.04,1.94,1.69
+132,GOL,Ronaldo,ACG,12,5.81,3.68,2.76
+353,GOL,Matheus Donelli,COR,2,2.53,0.5,1.74
+127,GOL,Bento,CAP,14,7.69,4.66,2.2
+362,GOL,Muriel,FLU,0,4.0,0.0,5.46
+372,GOL,Lucão,BGT,0,3.0,0.0,4.05
+380,GOL,Guilherme,COR,0,2.0,0.0,2.65
+400,GOL,Diógenes ,SAN,0,2.0,0.0,2.65
+403,GOL,Pedro Rangel,FLU,0,1.0,0.0,1.25
+331,GOL,Thiago Couto,SAO,0,2.0,0.0,2.65
+669,GOL,Glédson,AVA,0,1.98,-1.0,5.43
+177,GOL,Douglas Borges,BOT,0,3.0,0.0,4.05
+8,GOL,João Paulo,SAN,12,12.92,3.85,3.62
+711,GOL,Kaique,PAL,0,1.0,0.0,1.25
+712,GOL,Cássio,AME,0,1.0,0.0,1.25
+9,GOL,Gatito Fernández,BOT,12,6.33,2.74,2.46
+714,GOL,Robson,AME,0,1.0,0.0,1.25
+715,GOL,Gustavo Ramalho,FLU,0,1.0,0.0,1.25
+716,GOL,Anthoni,INT,0,1.0,0.0,1.25
+761,GOL,João,AVA,0,1.0,0.0,1.25
+759,GOL,Gabriel Pereira,CAP,0,1.0,0.0,1.25
+720,GOL,Breno,ACG,0,1.0,0.0,1.25
+758,GOL,Emerson Júnior,INT,0,1.0,0.0,1.25
+13,GOL,Santos,FLA,1,9.97,10.0,8.39
+723,GOL,Marcão,CFC,0,1.0,0.0,1.25
+725,GOL,Mycael,CAP,0,1.0,0.0,1.25
+28,GOL,Felipe Alves,JUV,0,7.0,0.0,9.67
+14,GOL,Weverton,PAL,11,10.28,4.18,1.03
+15,GOL,Tadeu,GOI,14,8.13,4.2,5.92
+731,GOL,Matheus Mendes,CAM,0,2.0,0.0,2.65
+757,GOL,Paulo Mazoti,SAN,0,1.0,0.0,1.25
+17,GOL,Luan Polli,ACG,2,5.03,2.25,5.92
+754,GOL,Vladimir,AVA,5,3.33,2.0,0.7
+743,GOL,Mateus,PAL,0,1.0,0.0,1.25
+710,GOL,Gabriel Delfim,CAM,0,1.0,0.0,1.25
+708,GOL,Cláudio Vitor,AVA,0,1.0,0.0,1.25
+751,GOL,Capellari,CUI,0,1.0,0.0,1.25
+5,GOL,Marcos Felipe,FLU,0,7.0,0.0,9.67
+689,GOL,Douglas Friedrich,AVA,10,7.06,2.17,6.91
+2,GOL,Cássio,COR,12,12.41,6.02,6.36
+696,GOL,Léo Linck,CAP,0,2.0,0.0,2.65
+1,GOL,Cleiton,BGT,13,8.73,3.46,-0.59
+6,GOL,Daniel,INT,13,7.05,3.07,1.19
+704,GOL,Vinícius,CUI,0,1.0,0.0,1.25
+767,GOL,Carlos Miguel,COR,0,1.0,0.0,1.25
+208,LAT,Auro,SAN,3,3.81,1.97,5.23
+350,LAT,Igor,AVA,0,2.0,0.0,2.65
+352,LAT,Matheuzinho,FLA,9,6.85,4.36,2.07
+197,LAT,Luan Cândido,BGT,9,9.37,6.86,6.86
+285,LAT,Hayner,ACG,11,3.99,2.77,-0.06
+342,LAT,Renê,INT,9,6.91,4.31,2.95
+196,LAT,Danilo Barcelos,GOI,10,3.44,0.97,3.8
+359,LAT,Pineida,FLU,4,4.34,2.05,4.0
+192,LAT,Hugo,BOT,11,6.19,3.64,2.67
+368,LAT,Juninho Capixaba,FOR,11,6.2,3.91,3.91
+370,LAT,Jhonny,FLU,0,1.0,0.0,1.25
+180,LAT,Daniel Borges,BOT,13,5.96,2.94,1.06
+753,LAT,Orejuela,CAP,4,7.09,6.08,8.86
+373,LAT,Lucas Piton,COR,11,15.22,6.66,4.97
+357,LAT,Ramon,BGT,4,2.74,1.37,1.58
+338,LAT,Reydson,BOT,0,1.0,0.0,1.25
+241,LAT,Weverson,BGT,1,3.08,1.0,3.49
+770,LAT,Thauan Lara,INT,0,1.0,0.0,1.25
+274,LAT,Guilherme,BGT,2,2.0,2.3,1.56
+271,LAT,Fábio Santos,COR,7,7.53,5.5,5.97
+288,LAT,Saravia,BOT,13,8.18,4.37,3.0
+296,LAT,Rodinei,FLA,3,5.64,4.93,9.88
+297,LAT,João Pedro ,COR,2,2.56,2.45,3.41
+763,LAT,Rafael Ramos,COR,10,9.0,5.89,5.43
+377,LAT,Cris Silva,FLU,5,9.46,4.88,3.88
+224,LAT,Victor Luis,CEA,8,6.28,2.25,7.15
+267,LAT,Kelvyn,CEA,1,2.44,-0.7,3.04
+265,LAT,Andrés Hurtado,BGT,7,3.77,2.03,0.9
+321,LAT,Busanello,JUV,4,7.91,4.9,8.49
+252,LAT,Natanael,CFC,4,5.04,3.52,7.96
+244,LAT,Buiú,CEA,0,2.0,0.0,2.65
+242,LAT,Jonathan Silva,BOT,1,2.38,0.6,3.08
+335,LAT,Pedrinho,CAP,3,3.38,5.53,2.03
+282,LAT,Warley,CFC,3,3.74,2.03,-1.46
+303,LAT,Igor Cariús,CUI,3,5.04,1.73,4.16
+660,LAT,Tinga,FOR,4,3.9,2.37,2.39
+421,LAT,Hugo,GOI,3,2.64,0.7,2.78
+747,LAT,Leonardo Ataíde,CAP,0,1.0,0.0,1.25
+530,LAT,Uendel,CUI,11,3.69,1.66,-1.17
+705,LAT,José Welinton ,FLA,0,1.0,0.0,
+532,LAT,Bruno Melo,COR,3,4.77,3.2,4.99
+534,LAT,João Moreira,SAO,0,3.0,0.0,4.05
+535,LAT,Michel,CEA,9,6.17,3.9,6.32
+699,LAT,Caio Hila,CUI,0,1.0,0.0,1.25
+698,LAT,Matheus Ribeiro,AVA,1,3.02,0.8,3.43
+543,LAT,Matheus Alexandre,CFC,9,8.85,5.38,4.34
+547,LAT,Luan Sales,ACG,0,2.0,0.0,2.65
+548,LAT,Cougo,AVA,0,3.0,0.0,4.05
+505,LAT,Paulo Henrique,JUV,9,4.73,2.24,4.14
+552,LAT,Rodrigo Soares,JUV,11,2.72,1.84,4.15
+598,LAT,Wesley,FLA,0,1.0,0.0,1.25
+603,LAT,Marçal,BOT,0,5.0,0.0,6.86
+611,LAT,Carlos Daniel,CAM,0,1.0,0.0,1.25
+619,LAT,Ayrton Lucas,FLA,10,7.5,5.04,5.35
+630,LAT,Marcos Paulo,FLA,1,0.9,0.4,0.98
+681,LAT,Bruno Cortez,AVA,13,6.26,2.13,0.56
+647,LAT,Juan Pablo,GOI,3,3.05,4.73,4.7
+649,LAT,Daniel Guedes ,CUI,2,2.29,-0.85,1.63
+678,LAT,Léo Maná,COR,0,1.0,0.0,1.25
+676,LAT,Kevin ,AVA,14,6.18,3.11,3.97
+556,LAT,Vitor Marinho,BOT,0,2.0,0.0,2.65
+504,LAT,Moraes,JUV,4,5.44,6.58,7.06
+503,LAT,William Matheus,JUV,9,1.52,0.81,-2.02
+498,LAT,Welington ,SAO,12,9.52,3.3,4.48
+744,LAT,Vinicius Kauê,CAP,0,1.0,0.0,1.25
+415,LAT,Vitor Ricardo,FOR,1,3.15,4.4,4.52
+742,LAT,Diego,CFC,4,1.89,2.05,-0.1
+419,LAT,Guilherme Biro,CFC,9,2.85,1.77,0.33
+675,LAT,Arthur,AME,2,0.73,-1.2,0.97
+423,LAT,Heitor,INT,0,5.0,0.0,6.86
+424,LAT,Marcos Rocha,PAL,9,10.95,7.18,11.2
+740,LAT,Guga,CAM,7,8.95,5.03,5.31
+425,LAT,Paulo Victor ,INT,0,4.0,0.0,5.46
+426,LAT,Gabriel Ruggeri,GOI,0,2.0,0.0,2.65
+432,LAT,Mayke,PAL,7,4.7,1.81,2.31
+726,LAT,Carlos Junio,AME,0,1.0,0.0,1.25
+439,LAT,Gustavo Garcia,PAL,2,3.81,5.55,4.71
+445,LAT,Mazetti,INT,0,3.0,0.0,4.05
+452,LAT,Vanderlan,PAL,1,3.29,4.6,3.94
+453,LAT,Jorge,PAL,7,3.46,3.93,3.12
+456,LAT,Madson,SAN,10,7.18,2.64,2.4
+719,LAT,Douglas Silva,GOI,0,3.0,0.0,4.05
+476,LAT,Lucas Pires,SAN,13,9.75,3.54,4.42
+484,LAT,Reinaldo,SAO,10,3.5,1.31,-1.74
+490,LAT,Bustos,INT,13,9.69,4.18,7.91
+179,LAT,Rafael,BOT,0,6.0,0.0,8.26
+494,LAT,Igor Vinícius,SAO,9,4.44,3.73,4.46
+381,LAT,Marlon,FLU,3,3.53,1.93,4.63
+493,LAT,Landázuri,FOR,7,2.51,1.47,1.46
+774,LAT,Nathan,CFC,2,1.31,-0.45,0.32
+137,LAT,Jefferson,ACG,14,4.22,2.62,1.36
+166,LAT,Diego Matos,AVA,1,1.72,-2.3,-0.44
+21,LAT,Rafinha,SAO,13,9.49,3.21,6.01
+147,LAT,Mariano,CAM,7,8.65,6.77,5.04
+22,LAT,Marlon ,AME,10,3.99,3.04,1.56
+23,LAT,Moisés,INT,4,4.85,3.1,0.05
+74,LAT,Filipe Luís,FLA,5,6.19,2.18,3.64
+25,LAT,Nino Paraíba,CEA,12,6.02,2.83,0.97
+168,LAT,Nicolas,JUV,0,1.0,0.0,1.25
+149,LAT,Dudu,ACG,4,7.58,2.27,7.53
+73,LAT,Samuel Xavier,FLU,10,8.76,6.12,6.66
+27,LAT,Felipe Jonatan,SAN,4,4.73,1.43,3.79
+93,LAT,Raúl Cáceres,AME,9,4.77,3.65,1.34
+98,LAT,Patric,AME,14,6.02,2.45,-0.72
+162,LAT,Dodô,CAM,0,6.0,0.0,8.26
+109,LAT,Calegari,FLU,4,9.74,4.22,9.69
+129,LAT,Khellven ,CAP,11,4.74,4.23,0.46
+104,LAT,João Paulo,AME,6,3.4,2.32,1.91
+20,LAT,João Lucas,CUI,11,6.07,3.15,1.34
+120,LAT,Vitor Hugo,AME,0,1.0,0.0,1.25
+170,LAT,Maguinho,GOI,11,2.82,1.42,-1.51
+3,LAT,Piquerez,PAL,8,7.55,6.46,2.69
+136,LAT,Arthur Henrique,ACG,7,2.85,1.17,-0.59
+18,LAT,Guilherme Arana,CAM,9,11.27,4.11,1.3
+126,LAT,Abner Vinícius,CAP,13,7.54,3.98,2.57
+88,LAT,Egídio,CFC,6,14.8,7.08,11.07
+16,LAT,Fagner,COR,2,9.81,5.3,4.33
+11,LAT,Bruno Pacheco,CEA,11,8.8,3.91,4.19
+171,LAT,Carlinhos,BOT,0,5.0,0.0,6.86
+101,LAT,Eduardo,AME,0,4.0,0.0,5.46
+10,LAT,Aderlan,BGT,9,7.59,3.48,2.38
+654,ZAG,Belezi,COR,0,1.0,0.0,1.25
+290,ZAG,Robson Bambu,COR,3,5.82,6.73,4.2
+648,ZAG,Hiago,CAM,0,1.0,0.0,1.25
+520,ZAG,Luiz Felipe,SAN,0,4.0,0.0,5.46
+345,ZAG,Léo Pereira,FLA,5,3.85,2.6,5.23
+294,ZAG,David Luiz,FLA,8,5.26,1.3,4.21
+622,ZAG,Lucas Beraldo,SAO,0,2.0,0.0,2.65
+51,ZAG,Fabrício Bruno,FLA,0,7.0,0.0,9.67
+563,ZAG,Michel,PAL,0,2.0,0.0,2.65
+627,ZAG,Lucas Freitas,PAL,0,1.0,0.0,1.25
+151,ZAG,Wanderson,ACG,7,2.69,1.43,1.34
+148,ZAG,Réver,CAM,6,5.65,3.02,7.25
+273,ZAG,Pablo,FLA,7,7.4,3.65,4.77
+631,ZAG,Luizão,SAO,0,1.0,0.0,1.25
+286,ZAG,Maicon,SAN,10,12.4,4.11,4.98
+85,ZAG,Víctor Cuesta,BOT,11,8.52,4.15,4.96
+283,ZAG,Gabriel Lacerda,CEA,10,4.25,1.82,4.01
+276,ZAG,Lucas Ribeiro,CEA,4,5.27,1.75,1.05
+401,ZAG,Titi,FOR,11,4.42,1.96,0.3
+280,ZAG,Junior Alonso,CAM,13,12.1,4.03,1.15
+651,ZAG,Dedé,CAP,0,4.0,0.0,5.46
+402,ZAG,David Duarte,FLU,1,2.73,-0.3,2.73
+289,ZAG,Guillermo Santos,CFC,5,5.25,3.2,1.43
+344,ZAG,Ewerton,BOT,0,1.0,0.0,1.25
+608,ZAG,Léo Dourado,CAP,0,1.0,0.0,1.25
+620,ZAG,Lucas Ramires,JUV,0,1.0,0.0,1.25
+336,ZAG,Alan Empereur,CUI,9,4.31,1.38,-2.56
+332,ZAG,Juan Ojeda,CUI,0,3.0,0.0,4.05
+138,ZAG,Ramon Menezes,ACG,12,3.82,1.81,-0.87
+571,ZAG,Rodrigo Freitas,AVA,4,1.68,0.83,1.07
+572,ZAG,Rafael Vaz,AVA,1,3.39,1.1,3.13
+514,ZAG,Diego,SAO,12,7.04,2.2,5.11
+574,ZAG,Marllon,CUI,12,7.12,3.21,3.42
+326,ZAG,Gabriel Noga,ACG,1,1.43,-0.2,-0.01
+578,ZAG,Paulão,CUI,6,4.56,1.68,0.49
+383,ZAG,Cleiton,FLA,0,2.0,0.0,2.65
+322,ZAG,Marcos Victor,CEA,1,2.27,3.4,2.71
+511,ZAG,Paulo Miranda,JUV,6,2.74,1.33,2.59
+385,ZAG,Caetano,GOI,10,5.39,2.87,4.2
+585,ZAG,Luan Patrick,AME,3,1.84,1.73,1.07
+586,ZAG,Walce,SAO,0,2.0,0.0,2.65
+509,ZAG,Thalisson Kelven,JUV,6,2.19,1.73,5.05
+595,ZAG,Mezenga,BOT,0,3.0,0.0,4.05
+340,ZAG,Thalisson Gabriel,CFC,0,2.0,0.0,2.65
+301,ZAG,Gustavo Henrique,FLA,2,5.29,3.3,5.39
+302,ZAG,Rodrigo Caio,FLA,7,5.75,2.03,0.46
+501,ZAG,Rafael Forster,JUV,12,6.09,2.99,6.46
+502,ZAG,Everson,GOI,0,3.0,0.0,4.05
+615,ZAG,Michel,ACG,0,2.0,0.0,2.65
+144,ZAG,Lucas Fasson,CAP,1,1.86,-0.9,1.74
+392,ZAG,David Braz,FLU,8,5.2,1.53,0.63
+154,ZAG,Nicolás Hernández,CAP,8,3.85,2.54,0.9
+605,ZAG,Danilo Avelar,AME,5,2.92,1.84,-1.02
+339,ZAG,Kawan,BOT,0,1.0,0.0,1.25
+390,ZAG,Matheus Ferraz,FLU,0,3.0,0.0,4.05
+389,ZAG,Felipe Melo,FLU,5,6.87,1.16,5.63
+506,ZAG,Reynaldo,GOI,11,4.68,1.99,5.01
+613,ZAG,Sidimar,GOI,5,2.84,3.34,1.06
+664,ZAG,David Ricardo,CEA,0,2.0,0.0,2.65
+539,ZAG,Kaíque Rocha,INT,1,2.9,2.1,5.35
+668,ZAG,Vitão,INT,9,4.62,2.29,1.42
+34,ZAG,Nino,FLU,10,12.64,4.97,5.24
+33,ZAG,Luan,PAL,6,6.82,4.12,1.06
+32,ZAG,Léo Ortiz,BGT,7,10.91,5.34,3.31
+221,ZAG,Natan,BGT,9,8.54,4.99,3.49
+31,ZAG,Kanu,BOT,12,3.97,2.3,2.3
+721,ZAG,Arthur Chaves,AVA,13,4.9,2.5,1.21
+722,ZAG,Joaquim,CUI,2,2.67,4.85,0.28
+30,ZAG,Nathan Silva,CAM,8,9.28,4.19,4.67
+464,ZAG,Velázquez,SAN,7,6.58,3.1,6.24
+29,ZAG,Marcelo Benevenuto,FOR,12,7.41,3.17,5.88
+729,ZAG,Da Silva,GOI,7,1.45,2.17,-0.67
+734,ZAG,Felipe Camargo,AVA,0,1.0,0.0,1.25
+462,ZAG,Eduardo Bauermann,SAN,11,9.91,3.86,6.28
+738,ZAG,Matheus Felipe,CAP,9,4.09,3.54,0.91
+483,ZAG,Kaiky,SAN,1,4.58,1.0,1.33
+461,ZAG,Murilo,PAL,12,9.69,5.04,7.08
+24,ZAG,Gustavo Gómez,PAL,9,15.25,8.6,2.63
+745,ZAG,João Vialle,CAP,1,0.66,-0.1,0.81
+460,ZAG,Kuscevic,PAL,2,6.49,9.1,9.0
+195,ZAG,Yan Souto,GOI,2,3.01,2.5,3.46
+194,ZAG,Robert Renan,COR,1,1.96,6.5,4.96
+458,ZAG,Marcio Silva,CFC,1,2.74,5.8,3.95
+191,ZAG,Gustavo Marques,AME,1,1.4,-0.3,0.72
+188,ZAG,Philipe Sampaio,BOT,5,1.28,-0.42,-2.6
+360,ZAG,Lipe,AVA,0,2.0,0.0,2.65
+764,ZAG,Vitor Mendes,JUV,8,4.37,3.97,0.6
+451,ZAG,Renan,BGT,3,4.28,4.2,4.33
+771,ZAG,Luan,FLU,0,1.0,0.0,1.25
+176,ZAG,Igor Rabello,CAM,1,5.34,8.8,7.01
+367,ZAG,Luccas Claro,FLU,7,5.16,1.48,2.78
+205,ZAG,Ceballos,FOR,10,4.23,3.1,3.86
+227,ZAG,Klaus,BOT,1,2.89,-0.2,0.26
+105,ZAG,Éder,AME,12,2.65,1.56,0.48
+354,ZAG,Raul Gustavo,COR,12,8.12,4.97,3.58
+409,ZAG,Manoel,FLU,10,8.66,4.58,10.62
+410,ZAG,Mercado,INT,11,5.89,2.66,-1.33
+673,ZAG,Arthur,GOI,0,2.0,0.0,
+482,ZAG,Miranda,SAO,5,6.48,3.68,4.69
+412,ZAG,Habraão,FOR,0,1.0,0.0,1.25
+133,ZAG,Lucas Halter,CAP,2,3.96,3.3,4.44
+680,ZAG,Jemerson,CAM,0,7.0,0.0,
+518,ZAG,Henrique Halls,BGT,0,2.0,0.0,2.65
+253,ZAG,Luiz Otávio,CEA,7,3.33,3.4,1.43
+478,ZAG,Léo,SAO,12,5.88,1.62,6.39
+251,ZAG,Henrique,CFC,11,5.07,1.88,1.16
+555,ZAG,Sidnei,GOI,4,5.17,3.3,1.97
+417,ZAG,Bruno Méndez,COR,6,4.96,3.02,6.61
+686,ZAG,Lomónaco,BGT,6,3.03,1.92,1.55
+250,ZAG,Haydar,BGT,0,3.0,0.0,4.05
+245,ZAG,Luciano Castán,CFC,12,6.48,2.49,5.08
+230,ZAG,Messias,CEA,10,4.02,2.66,-0.26
+232,ZAG,Realpe,BGT,4,2.95,1.33,1.98
+39,ZAG,Iago Maidana,AME,6,7.66,4.4,4.89
+235,ZAG,Joel Carli,BOT,3,3.94,3.07,-0.03
+246,ZAG,Gil,COR,9,8.59,4.92,7.36
+473,ZAG,Rodrigo Moledo,INT,5,5.59,3.48,1.27
+110,ZAG,Conti,AME,11,3.8,2.04,1.16
+43,ZAG,Arboleda,SAO,8,5.93,2.71,1.53
+92,ZAG,Thiago Heleno,CAP,0,8.0,0.0,11.07
+160,ZAG,Bressan,AVA,10,5.51,2.04,-2.15
+112,ZAG,Pedro Henrique,CAP,12,8.86,4.51,8.37
+45,ZAG,João Victor,COR,7,6.25,3.33,3.95
+557,ZAG,Tiago Barbosa,INT,0,2.0,0.0,2.65
+531,MEI,Liziero,INT,3,3.79,1.0,1.44
+533,MEI,Luan,SAO,2,5.04,0.75,1.51
+522,MEI,Bassani,JUV,0,4.0,0.0,5.46
+529,MEI,Bruno Oliveira,SAN,5,2.92,2.72,1.1
+519,MEI,Chico,JUV,12,6.25,2.92,1.64
+76,MEI,Otávio,CAM,11,3.88,1.35,1.27
+71,MEI,Arias,FLU,9,5.93,3.41,2.57
+474,MEI,Patrick,SAO,10,8.23,4.41,1.12
+512,MEI,Andrés,SAO,5,3.87,2.0,2.98
+449,MEI,Elvis,GOI,12,6.88,3.4,1.19
+96,MEI,Juninho,AME,12,5.93,2.49,2.06
+454,MEI,Vinícius Zanocelo,SAN,12,8.11,3.5,1.85
+94,MEI,Jair,CAM,11,8.23,4.51,4.84
+463,MEI,Carlos Sánchez,SAN,0,6.0,0.0,8.26
+465,MEI,Boschilia,INT,3,4.91,2.3,5.47
+466,MEI,Jailson,PAL,1,4.77,0.0,6.03
+467,MEI,Atuesta ,PAL,10,1.6,0.2,-0.27
+469,MEI,Sandry,SAN,10,3.22,2.27,1.12
+477,MEI,Kelvi,JUV,0,1.0,0.0,1.25
+479,MEI,Vinícius Balieiro,SAN,0,4.0,0.0,5.46
+515,MEI,Alisson,SAO,8,9.04,3.54,5.07
+480,MEI,Luís Oyama,BOT,12,7.13,3.2,1.89
+485,MEI,Auremir,GOI,8,2.0,1.03,2.83
+537,MEI,Darlan,JUV,3,2.21,0.5,0.72
+488,MEI,Rodrigo Nestor,SAO,12,7.01,3.63,2.09
+489,MEI,Gabriel,SAO,4,3.68,1.78,0.7
+87,MEI,Paulinho,COR,3,10.81,2.93,10.97
+497,MEI,Igor Gomes,SAO,12,5.79,1.86,2.27
+83,MEI,Nacho Fernández,CAM,11,12.94,6.06,7.64
+499,MEI,Rubens,CAM,11,7.87,5.58,9.92
+82,MEI,Cantillo,COR,8,5.14,2.13,0.67
+81,MEI,Ricardo Goulart,SAN,9,3.7,0.76,3.33
+507,MEI,Jadson,JUV,12,8.35,3.57,3.1
+481,MEI,Gabriel Pirani,CUI,3,2.13,0.3,0.6
+486,MEI,Jobson,SAN,0,4.0,0.0,5.46
+607,MEI,Estevão,INT,1,0.7,-0.6,0.79
+545,MEI,Rômulo,JUV,4,3.2,2.1,1.14
+42,MEI,Marlon Freitas,ACG,14,7.33,3.89,2.62
+44,MEI,Yago Pikachu,FOR,11,10.32,5.61,3.08
+695,MEI,Rivas,CUI,5,2.11,0.86,-0.19
+690,MEI,Allan,CAM,10,4.03,1.51,2.09
+688,MEI,Jean Cléber,AVA,10,2.07,0.79,0.21
+684,MEI,Fernandinho,CAP,0,10.0,0.0,
+683,MEI,Calebe,CAM,5,2.53,1.18,2.83
+41,MEI,Edenílson,INT,11,11.75,4.32,7.89
+46,MEI,Taison,INT,7,3.92,1.18,0.74
+48,MEI,Willian Arão,FLA,13,6.21,2.64,1.49
+49,MEI,Vina,CEA,10,3.47,1.47,-0.38
+674,MEI,Danilo Silva,GOI,0,1.0,0.0,0.1
+672,MEI,Guilherme Biro,COR,0,2.0,0.0,0.2
+50,MEI,Terans,CAP,12,9.53,4.91,3.67
+667,MEI,Luiz Henrique,SAO,0,1.0,0.0,1.25
+663,MEI,David,CEA,0,2.0,0.0,2.65
+677,MEI,Breno Bidon,COR,0,1.0,0.0,1.25
+662,MEI,Rodriguinho,CUI,13,5.92,2.06,0.67
+40,MEI,Hyoran,BGT,9,7.73,5.72,2.23
+37,MEI,Renato Augusto,COR,11,7.07,2.78,4.02
+772,MEI,Isaac,ACG,0,1.0,0.0,1.25
+765,MEI,Bruno Silva,AVA,12,7.53,3.59,3.1
+762,MEI,Luan Dias,GOI,6,2.34,0.42,2.22
+760,MEI,Galarza,CFC,3,4.08,1.8,2.24
+756,MEI,Neto,CAM,0,1.0,0.0,1.25
+752,MEI,Guilherme Castilho,CAM,3,3.04,-0.57,0.18
+749,MEI,Kazu,AVA,0,2.0,0.0,2.65
+38,MEI,Gustavo Scarpa,PAL,12,12.37,8.24,6.33
+746,MEI,Renato,AVA,4,3.48,1.62,1.54
+736,MEI,Nathan,GOI,0,1.0,0.0,1.25
+733,MEI,André Anderson,SAO,6,2.84,1.07,0.95
+730,MEI,Talles,SAO,1,3.77,3.7,4.31
+724,MEI,Jean,JUV,10,3.66,2.05,1.17
+718,MEI,Sammuel,FOR,0,1.0,0.0,1.25
+35,MEI,Andreas Pereira,FLA,13,6.06,2.92,1.18
+36,MEI,Arrascaeta,FLA,10,19.88,8.9,11.82
+741,MEI,Lincon,GOI,0,1.0,0.0,1.25
+661,MEI,Léo Silva,SAO,0,1.0,0.0,1.25
+656,MEI,Daniel Cabral,FLA,0,2.0,0.0,2.65
+652,MEI,Biel,CFC,1,1.3,2.9,1.86
+573,MEI,Edson Fernando,ACG,11,3.38,1.82,3.56
+569,MEI,Kevyn ,AME,0,1.0,0.0,1.25
+568,MEI,Lucas Barbosa,SAN,5,1.65,1.42,0.9
+566,MEI,Elton,JUV,1,2.87,-0.3,0.16
+565,MEI,Alan Patrick,INT,9,8.58,5.38,6.9
+63,MEI,Nikão,SAO,4,7.17,3.22,8.5
+562,MEI,Bruninho,JUV,4,2.53,1.35,1.44
+577,MEI,Jean Pyerre,AVA,5,3.7,1.8,6.1
+561,MEI,Willian Maranhão,SAN,4,4.23,1.23,4.1
+558,MEI,Bryan García,CAP,3,2.25,0.93,2.03
+64,MEI,Zaracho,CAM,5,14.08,5.58,12.25
+554,MEI,Pedro Bicalho,PAL,1,1.72,1.2,1.41
+553,MEI,Lucas Ramos,INT,0,3.0,0.0,4.05
+551,MEI,Everton,CUI,7,8.68,2.69,3.15
+550,MEI,Ivonei,SAN,0,3.0,0.0,4.05
+67,MEI,Willian,COR,11,14.45,4.61,3.6
+559,MEI,Fabinho,PAL,4,1.4,0.78,-0.36
+580,MEI,Lucas Lima,ACG,4,1.21,0.13,0.05
+582,MEI,Kawan,CAP,0,1.0,0.0,1.25
+584,MEI,Matheus Araújo,COR,0,1.0,0.0,1.25
+646,MEI,Lucas Lima,FOR,11,4.07,2.28,3.56
+643,MEI,Pedro Bahia,GOI,0,1.0,0.0,1.25
+637,MEI,Victor Hugo,FLA,0,2.0,0.0,2.65
+634,MEI,Matheus Galdezani,AVA,3,2.71,0.43,1.49
+628,MEI,Diego,CEA,0,3.0,0.0,4.05
+626,MEI,Maycon,COR,8,4.96,1.34,2.8
+621,MEI,Nathan Camargo ,BGT,1,0.73,-0.8,1.14
+58,MEI,Gabriel Sara,SAO,1,7.41,-0.2,9.49
+617,MEI,Naves,PAL,2,0.73,-0.5,0.93
+616,MEI,Lucas Fernandes,BOT,7,3.91,2.27,3.17
+614,MEI,Jhonatan,PAL,0,1.0,0.0,1.25
+604,MEI,Vitinho,AVA,1,1.42,-0.1,1.01
+62,MEI,Marlos,CAP,4,4.03,0.58,3.23
+597,MEI,Maicky,CFC,0,1.0,0.0,1.25
+596,MEI,Rodrigo Fernández,SAN,12,5.34,2.43,0.09
+591,MEI,Rikelme,CUI,0,1.0,0.0,1.25
+590,MEI,Marcão Silva,CUI,9,2.44,1.04,0.52
+542,MEI,Pablo García,CFC,1,2.2,0.0,1.39
+99,MEI,Alê,AME,10,8.82,3.96,2.94
+0,MEI,Raphael Veiga,PAL,8,14.72,5.74,3.13
+444,MEI,Bruno Gomes,INT,0,4.0,0.0,5.46
+228,MEI,Richardson,CEA,10,3.54,2.38,2.47
+263,MEI,Wescley,CEA,2,3.48,2.65,2.75
+225,MEI,Richard Coelho,CEA,10,4.7,2.45,0.32
+366,MEI,Yago Felipe,FLU,10,5.71,1.55,2.49
+124,MEI,Matheus Fernandes,CAP,9,3.5,1.7,-0.6
+163,MEI,Tchê Tchê,BOT,8,3.81,1.04,0.17
+369,MEI,Felipe,FOR,9,6.74,3.3,6.47
+123,MEI,Léo Cittadini,CAP,9,4.0,2.28,-0.35
+371,MEI,Matheus Vargas,FOR,3,4.02,0.87,3.83
+308,MEI,Pablo Maia,SAO,11,4.01,1.47,0.48
+121,MEI,Gustavo,AME,6,2.67,1.82,1.06
+264,MEI,Willian Farias,CFC,10,7.68,3.54,3.51
+222,MEI,Barreto,BOT,2,2.59,2.4,2.9
+229,MEI,Praxedes,BGT,8,7.75,3.08,0.83
+220,MEI,José Welison,FOR,9,5.63,3.71,3.97
+218,MEI,Miguel,BGT,5,6.27,3.18,1.97
+217,MEI,Eric Ramires,BGT,10,4.07,1.32,0.54
+216,MEI,Felipe Ferreira,BOT,0,4.0,0.0,5.46
+100,MEI,Lucas Kal,AME,12,2.79,1.28,2.33
+214,MEI,Jadsom Silva,BGT,10,3.97,1.34,0.84
+376,MEI,Matheus Jussa,FOR,9,0.73,-0.08,-2.13
+378,MEI,Du Queiroz,COR,13,5.79,3.25,1.95
+379,MEI,Lucas Crispim,FOR,10,1.92,-0.07,-0.46
+249,MEI,Chay,BOT,11,9.7,3.07,2.45
+118,MEI,Flávio,AME,1,1.8,1.3,2.01
+212,MEI,Lucas Ventura,AVA,5,1.62,0.86,1.05
+382,MEI,Ronald,FOR,4,2.82,0.85,0.59
+155,MEI,Rickson,ACG,6,1.49,0.2,1.25
+219,MEI,Pablo Siles,CAP,5,1.74,0.14,0.91
+268,MEI,Robinho,CFC,10,3.02,0.66,0.45
+281,MEI,Everton Ribeiro,FLA,13,8.66,4.26,4.44
+363,MEI,Nathan,FLU,6,4.22,1.65,0.64
+141,MEI,Wellington Rato,ACG,14,9.74,4.35,0.82
+158,MEI,Shaylon,ACG,12,3.08,0.82,0.02
+323,MEI,Ruan,COR,0,2.0,0.0,2.65
+324,MEI,Valdívia,CUI,11,5.14,2.74,-0.22
+325,MEI,Kayque,BOT,5,2.34,3.16,0.65
+157,MEI,Raniele,AVA,13,9.73,3.64,5.81
+317,MEI,Osorio,CUI,3,2.59,2.5,4.52
+327,MEI,Lázaro,FLA,11,4.0,1.25,2.68
+328,MEI,Gomes,FLA,10,10.75,4.59,2.63
+316,MEI,Yuri Lima,JUV,11,3.64,1.25,0.66
+139,MEI,Christian,CAP,5,3.96,1.94,2.39
+333,MEI,Gustavo Mantuan,COR,12,9.64,4.76,2.49
+135,MEI,Bruno Leite,CAP,0,2.0,0.0,2.65
+310,MEI,Rafael Gava,CUI,8,3.29,0.74,2.68
+240,MEI,Marlon,JUV,3,2.68,-0.4,0.67
+343,MEI,Thiago Maia,FLA,9,4.42,1.29,2.14
+346,MEI,Roni,COR,6,0.76,-0.63,-0.28
+347,MEI,Matheus França,FLA,1,1.76,-0.7,2.18
+315,MEI,Thonny Anderson,CFC,7,3.05,1.46,4.01
+238,MEI,Emiliano Martínez,BGT,0,4.0,0.0,5.46
+131,MEI,Erick,CAP,10,6.05,2.21,8.53
+237,MEI,Lima,CEA,8,9.87,4.72,6.79
+256,MEI,Diego,GOI,11,6.86,3.34,5.45
+355,MEI,Bernardo,CFC,6,2.24,1.65,1.89
+312,MEI,Léo Rafael,CEA,1,2.0,-0.1,2.47
+258,MEI,Geovane,CEA,8,1.63,0.56,3.47
+358,MEI,Adson,COR,10,7.78,4.84,1.58
+311,MEI,Pepê,CUI,10,6.19,3.33,4.13
+134,MEI,Hugo Moura,CAP,10,8.42,4.41,8.61
+164,MEI,Macaé,AVA,0,1.0,0.0,1.25
+213,MEI,Fernando Sobral,CEA,7,6.15,1.93,1.15
+304,MEI,Xavier,COR,2,2.09,-0.1,0.94
+113,MEI,Vitor Bueno,CAP,6,4.4,2.88,5.43
+418,MEI,Diego,FLA,6,3.27,1.03,1.44
+190,MEI,Del Piage,BOT,8,3.87,2.92,6.76
+275,MEI,Giuliano,COR,10,5.37,1.58,2.67
+422,MEI,Gabriel,INT,11,7.2,4.55,7.8
+189,MEI,Raul,BGT,8,6.69,2.93,3.54
+187,MEI,Lucas Evangelista,BGT,11,10.78,3.63,8.94
+277,MEI,Matheus Sales,GOI,11,2.87,1.1,-0.37
+107,MEI,Juninho Valoura,AME,1,3.77,0.6,3.31
+186,MEI,Breno,BOT,0,4.0,0.0,5.46
+185,MEI,Ênio,BOT,0,2.0,0.0,2.65
+287,MEI,Val,CFC,7,3.76,2.3,2.86
+114,MEI,Juan Ramírez,AME,7,5.02,2.24,1.22
+429,MEI,André,FLU,11,6.49,3.51,1.01
+434,MEI,Zé Rafael,PAL,12,13.55,6.17,3.55
+278,MEI,Régis,CFC,7,3.15,0.53,0.16
+436,MEI,Patrick de Paula,BOT,9,6.93,3.79,3.44
+437,MEI,Maurício,INT,10,4.22,1.97,0.6
+181,MEI,Jader,CAP,0,4.0,0.0,5.46
+279,MEI,Luciano,BGT,0,2.0,0.0,2.65
+150,MEI,Baralhas,ACG,12,7.6,3.66,5.31
+441,MEI,Johnny,INT,4,3.42,3.15,2.07
+172,MEI,Eduardo,AVA,13,4.83,2.14,3.41
+442,MEI,Danilo,PAL,10,6.41,2.67,3.56
+443,MEI,Camacho,SAN,5,4.19,1.9,4.39
+175,MEI,Lucas Piazon,BOT,6,2.23,0.17,-1.15
+431,MEI,Gabriel Menino,PAL,6,5.85,5.07,0.81
+414,MEI,Henrique Lordelo,GOI,2,1.76,-0.05,1.06
+320,MEI,Camilo,CUI,6,3.72,1.98,2.8
+146,MEI,Jorginho,ACG,13,7.01,3.74,7.14
+299,MEI,Gabriel Tota,JUV,1,1.04,-1.2,1.16
+396,MEI,Apodi,GOI,9,6.62,3.51,3.88
+397,MEI,Martinelli,FLU,4,3.58,0.35,0.05
+398,MEI,Wellington,FLU,10,2.93,0.77,0.27
+272,MEI,Andrey,CFC,6,17.2,9.77,14.84
+200,MEI,Rodrigo Lindoso,CEA,8,4.36,2.17,1.61
+117,MEI,Zé Ricardo,AME,8,1.78,0.5,0.92
+199,MEI,Juninho,BOT,0,1.0,0.0,1.25
+152,MEI,Edson ,ACG,11,4.39,1.85,1.25
+404,MEI,Fellipe Bastos,GOI,13,3.5,1.71,1.22
+405,MEI,Daniel de Pauli,GOI,0,3.0,0.0,4.05
+395,MEI,Ganso,FLU,11,6.4,2.75,2.25
+411,MEI,Miguel Figueira,GOI,0,4.0,0.0,5.46
+408,MEI,Hércules,FOR,9,4.22,3.75,2.01
+293,MEI,Rodriguinho,AME,4,1.01,1.05,0.14
+165,MEI,Vinícius Leite,AVA,4,3.18,1.3,0.26
+115,MEI,Matheusinho,AME,5,0.85,0.38,1.04
+142,MEI,Luan,COR,0,6.0,0.0,8.26
+393,MEI,Caio,GOI,10,2.9,1.76,0.21
+407,MEI,Nonato,FLU,9,7.5,2.74,8.31
+659,ATA,Marcinho,AVA,3,3.74,2.43,3.16
+55,ATA,Marinho,FLA,6,7.14,3.85,6.59
+666,ATA,Churín,ACG,14,4.87,2.57,1.43
+645,ATA,Merentiel,PAL,0,5.0,0.0,6.86
+270,ATA,Zé Roberto,CEA,7,4.34,1.57,1.25
+682,ATA,Eduardo Sasha,CAM,12,5.95,3.25,1.24
+255,ATA,Léo Gamalho,CFC,8,13.05,6.29,2.41
+665,ATA,João Victor,CEA,2,0.75,0.4,0.24
+644,ATA,Pedro Igor ,CEA,0,2.0,0.0,2.65
+670,ATA,Yuri Alberto,COR,0,12.0,0.0,
+47,ATA,Artur,BGT,9,7.59,6.01,2.43
+54,ATA,Róger Guedes,COR,11,14.27,4.81,4.18
+650,ATA,Jhojan Julio,SAN,10,6.23,2.52,3.04
+52,ATA,Marcos Leonardo,SAN,11,12.16,6.95,1.57
+657,ATA,Emersonn,CAP,0,1.0,0.0,0.1
+257,ATA,Sorriso,BGT,10,5.1,1.9,2.35
+53,ATA,Ytalo,BGT,10,7.48,3.31,2.11
+259,ATA,Erick,CEA,11,4.05,1.64,6.93
+260,ATA,Jael,CEA,0,6.0,0.0,8.26
+261,ATA,Bruninho,BGT,0,3.0,0.0,4.05
+153,ATA,Airton,ACG,12,5.59,3.78,3.33
+653,ATA,Alan Kardec,CAM,0,9.0,0.0,0.91
+679,ATA,Felipe Felício,CAM,0,2.0,0.0,2.65
+671,ATA,Wesley,COR,1,0.73,-0.3,0.09
+231,ATA,Luiz Fernando ,ACG,11,4.4,2.65,1.75
+248,ATA,Iury Castilho,CEA,6,2.01,2.28,1.13
+209,ATA,Jan Hurtado,BGT,8,3.31,1.22,0.34
+737,ATA,Gustavo Nescau,CUI,0,3.0,0.0,4.05
+207,ATA,Leandrinho,BGT,0,4.0,0.0,5.46
+206,ATA,Wanderson,INT,10,4.1,3.53,0.71
+204,ATA,Helinho,BGT,11,3.72,1.16,-1.16
+203,ATA,Alerrandro,BGT,9,5.69,2.98,7.31
+202,ATA,Matheus Peixoto,CEA,6,5.76,1.47,1.04
+201,ATA,Dentinho,CEA,1,4.62,1.2,4.62
+748,ATA,Pedro Henrique,INT,9,4.17,2.57,1.88
+167,ATA,Morato,AVA,13,10.05,3.19,1.24
+750,ATA,Davi Araújo,CAP,0,3.0,0.0,4.05
+735,ATA,Juan,SAO,0,1.0,0.0,1.25
+193,ATA,Marcelo Cirino,CAP,8,3.76,1.27,0.37
+755,ATA,Dadá Belmonte,GOI,12,3.91,1.75,1.34
+12,ATA,Bruno Henrique,FLA,8,14.9,5.88,6.81
+184,ATA,Matheus Nascimento,BOT,10,4.41,0.91,3.24
+183,ATA,John Mercado,CAP,1,2.17,-0.2,0.09
+7,ATA,Hulk,CAM,11,20.41,7.63,8.16
+182,ATA,Rikelmi,BOT,1,1.46,0.0,0.85
+766,ATA,Reinaldo,CAP,0,3.0,0.0,4.05
+4,ATA,Gabriel,FLA,12,11.11,3.53,8.09
+768,ATA,Giovane,COR,2,1.76,1.25,1.94
+769,ATA,Vinícius Jaú,AVA,0,1.0,0.0,1.25
+178,ATA,Rômulo ,AVA,7,2.75,1.07,0.96
+169,ATA,Paulo Baya,AVA,0,3.0,0.0,4.05
+211,ATA,Bruno Tubarão,BGT,8,4.02,1.76,0.13
+732,ATA,Robson,FOR,10,7.73,3.67,9.93
+728,ATA,Jean,ACG,0,1.0,0.0,1.25
+687,ATA,Romarinho,FOR,6,5.74,4.18,14.43
+247,ATA,Cléber,CEA,9,3.31,2.76,-0.04
+243,ATA,Gabriel Novaes,BGT,0,4.0,0.0,5.46
+691,ATA,Dentinho,AVA,8,1.22,0.89,0.45
+692,ATA,Renato Junior,GOI,7,0.99,0.81,1.05
+693,ATA,Jonathan Cafu,CUI,7,2.28,0.37,0.46
+694,ATA,Samuel Granada,FLU,0,3.0,0.0,4.05
+161,ATA,Léo Pereira,ACG,13,6.3,2.66,2.39
+697,ATA,Muriqui,AVA,12,10.05,5.24,0.7
+700,ATA,Vitinho,CAP,7,3.96,1.97,2.41
+701,ATA,Kawê,AME,2,0.73,-0.2,0.58
+702,ATA,Ademir,CAM,13,11.09,3.91,2.07
+703,ATA,Adyson,AME,0,1.0,0.0,1.25
+236,ATA,Welliton,BGT,2,1.24,-0.2,1.0
+234,ATA,Vinícius Lopes,BOT,10,4.94,3.89,4.45
+706,ATA,Adrián Martínez,CFC,10,4.05,2.68,1.51
+707,ATA,Copete,AVA,6,2.42,0.7,0.91
+233,ATA,Gonzalo,BGT,0,2.0,0.0,2.65
+709,ATA,Carlos de Pena,INT,12,5.43,3.71,1.74
+713,ATA,Fábio Gomes,CAM,3,3.18,0.67,1.07
+226,ATA,Diego Gonçalves,BOT,9,7.91,2.42,4.74
+717,ATA,Bryan Angulo,SAN,10,4.17,2.41,2.55
+223,ATA,Renato Kayzer,FOR,6,4.08,1.25,2.53
+215,ATA,Neilton,CFC,3,3.68,0.74,2.45
+727,ATA,Luiz Filipe,GOI,2,2.2,1.2,2.49
+685,ATA,Sávio,CAM,7,2.83,2.45,0.65
+642,ATA,Matheusinho,GOI,1,0.73,0.0,0.4
+610,ATA,William Pottker,AVA,11,4.18,2.15,0.34
+546,ATA,Rômulo,CAP,4,4.63,3.63,7.36
+773,ATA,José Hugo,CFC,3,1.34,0.2,0.56
+508,ATA,Pedro Raul,GOI,12,9.99,5.77,6.99
+386,ATA,Fred,FLU,4,4.53,0.5,4.12
+510,ATA,Wesley Moraes,INT,5,2.75,0.56,1.67
+384,ATA,Vinicius,GOI,6,4.01,2.02,0.41
+513,ATA,Ricardo Bueno,JUV,9,4.64,0.99,1.43
+119,ATA,Carlos Alberto,AME,3,2.01,1.43,2.48
+516,ATA,Léo Baptistão ,SAN,11,10.34,5.98,5.21
+517,ATA,Vitor Gabriel,JUV,8,3.08,1.86,1.91
+521,ATA,Gabriel Silva,PAL,0,3.0,0.0,4.05
+375,ATA,Alexandre Jesus,FLU,2,0.73,-0.15,0.15
+78,ATA,Rigoni,SAO,10,2.75,0.27,0.43
+524,ATA,Guilherme Parede,JUV,8,2.18,0.86,0.07
+388,ATA,Igor Torres,FOR,4,1.77,-0.08,-0.13
+525,ATA,Luan Silva,PAL,0,2.0,0.0,2.65
+527,ATA,Toró,SAO,1,7.2,7.9,8.14
+528,ATA,Julimar,CAP,0,2.0,0.0,2.65
+374,ATA,Moisés,FOR,13,6.16,3.49,4.04
+122,ATA,Bissoli,AVA,13,9.4,5.94,8.45
+72,ATA,Mendoza,CEA,11,12.99,7.7,4.59
+70,ATA,Nicolas,GOI,7,4.2,1.7,2.4
+365,ATA,Clayton,CFC,9,3.41,1.68,4.08
+69,ATA,Keno,CAM,7,6.93,2.54,2.79
+541,ATA,Allanzinho,SAN,0,2.0,0.0,2.65
+364,ATA,Marcelinho,FLU,0,1.0,0.0,1.25
+68,ATA,David,INT,11,4.85,1.95,-0.55
+544,ATA,Tailson,SAN,0,3.0,0.0,4.05
+56,ATA,Vargas,CAM,7,8.38,3.9,7.08
+526,ATA,Capixaba,JUV,7,5.22,2.25,3.61
+125,ATA,Pedro Rocha,CAP,6,2.77,1.38,1.66
+79,ATA,Silvio Romero,FOR,13,3.31,0.68,0.27
+391,ATA,Depietri,FOR,8,1.76,0.11,-0.26
+447,ATA,Caio Vidal,INT,3,1.98,0.6,1.92
+450,ATA,Lucas Braga,SAN,12,4.52,1.82,1.77
+97,ATA,Everaldo ,AME,9,8.75,4.66,3.88
+440,ATA,Reginaldo,GOI,0,1.0,0.0,1.25
+103,ATA,Wellington Paulista,AME,5,4.44,0.2,0.35
+455,ATA,Gustavo Maia,INT,0,2.0,0.0,2.65
+435,ATA,Wesley,PAL,9,5.93,2.95,8.95
+433,ATA,Rafael Navarro,PAL,12,4.19,1.41,1.81
+430,ATA,Caio Paulista,FLU,12,4.71,2.22,4.43
+427,ATA,Matheus Cadorini,INT,2,2.26,1.4,0.22
+106,ATA,Henrique Almeida,AME,8,2.46,0.77,1.42
+468,ATA,Breno Lopes,PAL,8,3.46,1.02,0.73
+470,ATA,Marcos Guilherme,SAO,1,5.44,1.9,4.8
+80,ATA,Cuello,CAP,12,7.42,3.17,3.43
+471,ATA,Gabriel Veron,PAL,9,5.33,4.37,1.4
+173,ATA,Pedrinho,AME,10,5.33,2.1,3.4
+111,ATA,Pablo,CAP,9,5.69,4.39,1.4
+420,ATA,Edinho,JUV,3,1.78,0.3,0.19
+413,ATA,John Kennedy,FLU,5,2.42,0.42,-1.06
+91,ATA,Felipe Azevedo,AME,13,6.02,2.45,1.92
+89,ATA,Berrío ,AME,0,3.0,0.0,4.05
+116,ATA,Léo Passos,AME,0,2.0,0.0,2.65
+491,ATA,Ângelo,SAN,5,5.08,2.84,1.69
+86,ATA,Willian,FLU,11,3.63,0.92,1.28
+399,ATA,Gabryel Martins,FLU,0,1.0,0.0,1.25
+84,ATA,Cano,FLU,14,12.33,5.55,3.42
+496,ATA,Eder,SAO,13,6.46,1.6,1.61
+394,ATA,Índio,GOI,0,2.0,0.0,2.65
+472,ATA,Luciano,SAO,11,11.99,4.88,5.82
+66,ATA,Dudu,PAL,13,11.45,4.62,1.95
+174,ATA,Erison,BOT,13,12.25,5.82,1.66
+361,ATA,Daniel Cruz,BOT,1,0.94,1.1,0.9
+594,ATA,Everton,FLA,0,15.0,0.0,20.89
+314,ATA,Marquinhos,CUI,6,5.82,3.67,6.6
+313,ATA,Pitta,JUV,11,3.33,1.76,1.83
+599,ATA,Gabriel Silva,FOR,0,2.0,0.0,2.65
+600,ATA,Vitor Hugo,GOI,1,0.73,-0.1,1.04
+549,ATA,Elton,CUI,8,4.23,1.91,1.82
+602,ATA,Óscar Ruíz,JUV,9,8.96,4.6,1.2
+632,ATA,Alan,FLU,0,8.0,0.0,0.81
+309,ATA,Paulinho Bóia,AME,4,6.92,4.35,7.02
+609,ATA,Caio,SAO,0,1.0,0.0,1.25
+629,ATA,Pedro Junqueira,GOI,6,1.95,1.27,-1.04
+59,ATA,Calleri,SAO,14,24.56,7.58,4.75
+291,ATA,André Luís,CUI,10,3.46,1.37,2.11
+307,ATA,Alef Manga,CFC,12,9.67,3.75,6.94
+306,ATA,Felipe Marques,CUI,13,2.89,0.97,0.81
+305,ATA,Alesson,CUI,7,4.85,3.29,2.73
+292,ATA,Júnior Moraes,COR,7,4.44,0.37,0.47
+618,ATA,José López,PAL,0,7.0,0.0,9.67
+300,ATA,Gustavo Mosquito,COR,5,3.96,1.76,6.27
+295,ATA,Alemão,INT,12,6.48,3.15,3.33
+623,ATA,Jeffinho,BOT,2,0.73,-0.2,0.0
+624,ATA,Canobbio,CAP,7,5.33,2.47,5.13
+592,ATA,Fabrício,CFC,10,7.53,4.53,3.27
+625,ATA,Weliton,JUV,0,1.0,0.0,1.25
+589,ATA,Vitinho,BOT,0,1.0,0.0,1.25
+65,ATA,Rony,PAL,13,12.86,6.39,9.76
+128,ATA,Carlos Eduardo,BGT,5,4.18,1.24,-0.45
+356,ATA,Matheus Martins,FLU,6,1.97,2.42,0.2
+130,ATA,Matheus Babi,CAP,5,3.07,-0.12,0.03
+351,ATA,Igor Paixão,CFC,12,14.4,6.84,3.08
+348,ATA,Felipe Augusto,COR,3,1.47,0.27,0.81
+639,ATA,Aloísio,AME,10,5.2,3.23,2.12
+341,ATA,Gustavo Santos,AVA,0,2.0,0.0,2.65
+567,ATA,Giovani,PAL,1,2.11,0.2,2.8
+334,ATA,Pedro,FLA,11,9.0,2.85,9.05
+570,ATA,Victor Sá,BOT,11,8.71,2.97,3.16
+284,ATA,Rwan,SAN,8,3.28,3.56,-0.34
+575,ATA,André,CUI,9,3.77,2.62,1.66
+636,ATA,Petterson,FLA,0,1.0,0.0,1.25
+635,ATA,David,FOR,0,1.97,-1.0,4.05
+579,ATA,Vitor Roque,CAP,9,5.13,3.45,1.9
+581,ATA,Jenison,CUI,7,3.55,1.44,-0.96
+583,ATA,Gustavo Sauer,BOT,3,5.23,1.73,5.17
+319,ATA,William Alves,CFC,0,1.0,0.0,1.25
+318,ATA,Vitinho,FLA,5,5.02,1.28,1.29
+587,ATA,Paulinho Moccelin,JUV,8,5.27,1.6,1.34
+588,ATA,Sebastian Joffre,BOT,0,2.0,0.0,2.65
+638,TEC,António Oliveira,CUI,4,5.82,2.89,1.61
+457,TEC,Fabián Bustos,SAN,13,10.4,4.47,4.66
+95,TEC,Marquinhos Santos,CEA,4,3.83,3.44,2.1
+57,TEC,Maurício Barbieri,BGT,13,10.72,4.42,3.92
+633,TEC,Jorginho,ACG,8,8.05,4.31,2.73
+601,TEC,Jair Ventura,GOI,13,5.75,3.4,4.16
+156,TEC,Vítor Pereira,COR,13,12.18,5.44,4.62
+60,TEC,Juan Vojvoda,FOR,13,7.62,3.46,3.98
+262,TEC,Gustavo Morínigo,CFC,13,10.88,4.63,3.65
+606,TEC,Luiz Felipe Scolari,CAP,9,8.86,4.74,4.72
+61,TEC,Rogério Ceni,SAO,14,11.89,4.19,5.19
+739,TEC,Vagner Mancini,AME,13,6.81,3.54,2.27
+593,TEC,Mano Menezes,INT,11,8.39,4.59,3.7
+26,TEC,Abel Ferreira,PAL,13,12.94,6.53,4.46
+159,TEC,Eduardo Barroca,AVA,14,7.93,3.52,3.13
+576,TEC,Dorival Júnior,FLA,13,8.91,4.34,7.55
+140,TEC,Umberto Louzer,JUV,7,5.63,3.23,4.39
+560,TEC,Luís Castro,BOT,14,8.56,3.95,3.42
+19,TEC,Antonio Mohamed,CAM,13,12.64,5.46,4.92
+640,TEC,Fernando Diniz,FLU,10,9.64,4.48,5.36
