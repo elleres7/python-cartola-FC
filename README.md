@@ -1,10 +1,13 @@
 <img src="https://github.com/elleres7/python-cartola-FC/blob/master/title.png" alt="Alt text" title="apresentacao">
 
-<h2>O que é análise orientada a valorização de cartoletas?</h2>
-É o processo com intuito de criar um modelo analítico/preditivo que contem informações necessárias para solucionar os problemas na redução orçamentária do Cartola FC, que limita a experiência do usuário.
+<h2>Sobre:</h2>
+Para este projeto, utilizamos o Python, a biblioteca Matplotlib e o Pandas para coletar, limpar e visualizar os dados de jogadores de futebol do jogo Cartola FC. O objetivo era fornecer ao nosso cliente uma lista de jogadores com o maior potencial de valorização durante a rodada atual do jogo.
 
-<h2>O que são cartoletas?</h2>
-Moeda virtual do Cartola FC, que permite o usuário montar um time dentro do limite de seu orçamento a cada rodada do campeonato brasileiro.
+Inicialmente, coletamos os dados de desempenho dos jogadores a partir da API do Cartola FC e os armazenamos em um banco de dados. Em seguida, usamos o Pandas para limpar os dados e eliminar entradas duplicadas ou incorretas.
+
+Uma vez que tínhamos os dados limpios, utilizamos o Matplotlib para criar gráficos de barras que nos permitissem comparar o desempenho dos jogadores em diferentes métricas, como pontos por jogo, preço e valorização. Isso nos permitiu identificar os jogadores com o maior potencial de valorização na rodada atual.
+
+Finalmente, utilizamos o Python para criar um relatório que apresentasse nossas conclusões e recomendações ao nosso cliente. O relatório incluía uma lista dos jogadores mais bem colocados em nossa análise, bem como gráficos e tabelas que ilustrassem o desempenho de cada um deles.
 
 <h2>Quais as etapas presentes no projeto?</h2>
  
